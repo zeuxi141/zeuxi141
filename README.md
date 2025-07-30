@@ -8,13 +8,12 @@ A passionate **Frontend Developer** from Vietnam, dedicated to crafting user-fri
 - 💻 Specializing in **Frontend Development** with experience in modern frameworks and tools.
 - 🌱 Currently learning more about **Next.js** and **TypeScript** to build scalable applications.
 - 🚀 Passionate about creating seamless user experiences and clean code.
-- 📫 Reach out to me via [email@example.com](mailto:email@example.com) or connect with me below!
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noreferrer">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nguyen-trung-kien-074b35313/)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank" rel="noreferrer">
@@ -47,8 +46,6 @@ A passionate **Frontend Developer** from Vietnam, dedicated to crafting user-fri
 [Express](https://expressjs.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" />
 [MongoDB](https://www.mongodb.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30" />
 [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server) <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30" />
-[Redis](https://redis.io) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30" />
-[RabbitMQ](https://www.rabbitmq.com) <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30" />
 [Firebase](https://firebase.google.com/) <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30" />
 
 #### DevOps
