@@ -77,6 +77,6 @@ A passionate **Frontend Developer** from Vietnam, dedicated to crafting user-fri
 ---
 
 ### 📊 GitHub Stats
-![Kien's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=zeuxi141&theme=default&hide_border=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeuxi141&" alt="zeuxi141" /></p>
 
 ---
