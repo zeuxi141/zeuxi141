@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kien
+# Hi 👋, I'm KINE
 
 A passionate **Frontend Developer** from Vietnam, dedicated to crafting user-friendly and visually appealing web applications. I love exploring new technologies and building innovative solutions.
 
@@ -25,7 +25,10 @@ A passionate **Frontend Developer** from Vietnam, dedicated to crafting user-fri
 ---
 
 ### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeuxi141&" alt="zeuxi141" /></p>
+<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; overflow-x: auto; padding: 10px 0; align-items: center; gap: 30;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeuxi141&" alt="zeuxi141 streak stats" style="height: 150px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdqMTZndzgzNDY1enV3a3d5Y3RxMmFxeTh5dXpyNWNjc2RxaTd0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FaAxdPWZ7HKGmlnku7/giphy.gif" alt="me" style="height: 150px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
 
 ---
 
@@ -90,9 +93,12 @@ A passionate **Frontend Developer** from Vietnam, dedicated to crafting user-fri
 </div>
 
 #### Other
-<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto; padding-bottom: 20px;">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30" />
 </div>
+
+---
+
 
 
