@@ -33,9 +33,9 @@ A passionate **Fullstack Developer**, dedicated to crafting user-friendly and vi
 
 ###
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[zeuxi141]/[zeuxi141]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[zeuxi141]/[zeuxi141]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[zeuxi141]/[zeuxi141]/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeuxi141/zeuxi141/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeuxi141/zeuxi141/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeuxi141/zeuxi141/output/pacman-contribution-graph.svg">
 </picture>
 ###
 
