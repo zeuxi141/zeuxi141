@@ -21,7 +21,9 @@ A passionate **Fullstack Developer**, dedicated to crafting user-friendly and vi
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nguyen-trung-kien-074b35313/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
@@ -31,15 +33,15 @@ A passionate **Fullstack Developer**, dedicated to crafting user-friendly and vi
 
 ---
 
-###
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeuxi141/zeuxi141/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeuxi141/zeuxi141/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeuxi141/zeuxi141/output/pacman-contribution-graph.svg">
 </picture>
-###
 
-### 🛠️ Languages and Tools
+---
+
+### Languages and Tools
 
 #### Frontend
 <div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
