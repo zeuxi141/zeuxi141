@@ -1,6 +1,6 @@
 # Hi, I'm KINE
 
-A passionate **Fullstack Developer**, dedicated to crafting user-friendly and visually appealing web applications. I love exploring new technologies and building innovative solutions.
+A passionate exploring new technologies and building innovative solutions.
 
 ---
 
